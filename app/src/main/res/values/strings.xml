@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaizaJoel</string>
+    <string name="edit_text_nombre">Nombre</string>
+    <string name="edit_text_apellido">Apellido</string>
+    <string name="edit_text_base">Base</string>
+    <string name="edit_text_exponente">Exponente</string>
+</resources>
