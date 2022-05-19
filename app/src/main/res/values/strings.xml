@@ -4,4 +4,18 @@
     <string name="edit_text_apellido">Apellido</string>
     <string name="edit_text_base">Base</string>
     <string name="edit_text_exponente">Exponente</string>
+    <string name="edit_text_factorial">Factorial</string>
+    <string name="edit_text_potencia">Potencia</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="edit_text_nombre_a2">Nombre</string>
+    <string name="edit_text_base_a2">Base</string>
+    <string name="btn_siguienteA2">Siguiente</string>
+    <string name="edit_text_nombre_a3">Nombre</string>
+    <string name="edit_text_apellido_a3">Apellido</string>
+    <string name="edit_text_base_a3">Base</string>
+    <string name="edit_text_exponente_a3">Exponente</string>
+    <string name="edit_text_factorial_a3">Factorial</string>
+    <string name="btn_regresar_a3">Regresar</string>
+    <string name="btn_regresarA2">Regresar</string>
 </resources>
